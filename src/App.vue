@@ -3,6 +3,7 @@
 // Check out https://vuejs.org/api/sfc-script-setup.html#script-setup
 import FirstApp from './components/FirstApp.vue';
 import UserGalery from './components/UserGalery.vue';
+import DeleteElement from './components/DeleteElement.vue';
 
 
 
